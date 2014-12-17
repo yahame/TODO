@@ -1,4 +1,4 @@
-todo
+TODO
 ====
 
-Just Another Todo, but using the YaHa FrameWork
+Just Another ToDo, but using the YaHa FrameWork
